@@ -1,4 +1,3 @@
 # OpenCV
 Face detection
- > image and 
- > video
+ > From an image and from a video
